@@ -1,13 +1,11 @@
 // GoldMine Mod
 // By Wowzaa89
-elements.bizare_bomb = {
+elements.sand_maker = {
     color: "#ffffff",
-    name: "BizareBomb",
     behavior: [
-        "XX|CR:smoke|XX",
+        "XX|CR:sand|XX",
         "XX|XX|XX",
-        "XX|M1 AND EX:50>fire|XX"
+        "XX|M1|XX"
     ],
-    state: "solid",
-    category: "Special"
+    state: "solid"
 }
