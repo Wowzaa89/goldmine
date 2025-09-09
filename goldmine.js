@@ -7,5 +7,6 @@ elements.sand_maker = {
         "XX|XX|XX",
         "XX|M1|XX"
     ],
-    state: "solid"
+    state: "solid",
+    density: 1900
 }
