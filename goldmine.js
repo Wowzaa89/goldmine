@@ -9,5 +9,5 @@ elements.bizare_bomb = {
         "XX|M1 AND EX:50>fire|XX"
     ],
     state: "solid",
-    category: "weapon"
+    category: "Special"
 }
